@@ -1,10 +1,10 @@
 # Insight UI
 
-A Dash blockchain explorer web application service for [Dashcore Node](https://github.com/dashevo/dashcore-node) using [Insight API](https://github.com/dashevo/insight-api).
+A Botcoin blockchain explorer web application service for [Dashcore Node](https://github.com/botcoin-core/dashcore-node) using [Insight API](https://github.com/botcoin-core/insight-api).
 
 ## Quick Start
 
-Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [Dashcore](https://github.com/dashevo/dashcore).
+Please see the guide at [https://botcore.io/guides/full-node](https://botcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [Dashcore](https://github.com/botcoin-core/dashcore).
 
 ## Getting Started
 
@@ -23,7 +23,7 @@ Open a web browser to `http://localhost:3001/insight/`
 
 ## Development
 
-To run Insight UI Dash locally in development mode:
+To run Insight UI Botcoin locally in development mode:
 
 Install bower dependencies:
 
@@ -45,7 +45,7 @@ $ grunt
 
 ## Multilanguage support
 
-Insight UI Dash uses [angular-gettext](http://angular-gettext.rocketeer.be) for multilanguage support.
+Insight UI Botcoin uses [angular-gettext](http://angular-gettext.rocketeer.be) for multilanguage support.
 
 To enable a text to be translated, add the ***translate*** directive to html tags. See more details [here](http://angular-gettext.rocketeer.be/dev-guide/annotate/). Then, run:
 
@@ -70,11 +70,11 @@ compile***.
 
 ## Note
 
-For more details about the [Insight API](https://github.com/dashevo/insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/dashevo/insight-api).
+For more details about the [Insight API](https://github.com/botcoin-core/insight-api) configuration and end-points, go to [Insight API GitHub repository](https://github.com/botcoin-core/insight-api).
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI Dash GitHub repository](https://github.com/dashevo/insight-ui).
+Contributions and suggestions are welcomed at the [Insight UI Botcoin GitHub repository](https://github.com/botcoin-core/insight-ui).
 
 
 ## License

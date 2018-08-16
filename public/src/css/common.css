@@ -624,7 +624,7 @@ margin-left: 0;
   float: left;
   height: 45px;
 }
-#powered a.bitcore {
+#powered a.botcore {
   background-image: url('../img/logo.svg');
   background-size: 80px;
   width: 30%;
@@ -866,7 +866,7 @@ a.v_highlight_more {
   min-width: 100%;
 }
 
-/* Dash rebrand, 2018-05-28 */
+/* Botcoin rebrand, 2018-05-28 */
 a {
   color: #008de4;
 }

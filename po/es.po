@@ -23,28 +23,28 @@ msgstr "404 Página no encontrada :("
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source Dash blockchain explorer</a> with complete REST "
+"\"_blank\">open-source Botcoin blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
 "that need more advanced blockchain queries than provided by dashd RPC.  "
-"Check out the <a href=\"https://github.com/dashpay/insight-ui-dash\" target=\"_blank"
+"Check out the <a href=\"https://github.com/botcoin-core/botcoin-insight-ui\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
 "<strong>insight</strong>  es un <a href=\"http://live.insight.is/\" target="
-"\"_blank\">explorador de bloques de Dash open-source</a> con un completo "
+"\"_blank\">explorador de bloques de Botcoin open-source</a> con un completo "
 "conjunto de REST y APIs de websockets que pueden ser usadas para escribir "
 "monederos de Dashs y otras aplicaciones que requieran consultar un "
 "explorador de bloques.  Obtén el código en <a href=\"http://github.com/"
-"dashpay/insight\" target=\"_blank\">el repositorio abierto de Github</a>."
+"botcoin-core/insight\" target=\"_blank\">el repositorio abierto de Github</a>."
 
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong> is still in development, so be sure to report any "
 "bugs and provide feedback for improvement at our <a href=\"https://github."
-"com/dashpay/insight/issues\" target=\"_blank\">github issue tracker</a>."
+"com/botcoin-core/insight/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr ""
 "<strong>insight</strong> esta en desarrollo aún, por ello agradecemos que "
 "nos reporten errores o sugerencias para mejorar el software. <a href="
-"\"https://github.com/dashpay/insight-ui-dash/issues\" target=\"_blank\">Github issue "
+"\"https://github.com/botcoin-core/botcoin-insight-ui/issues\" target=\"_blank\">Github issue "
 "tracker</a>."
 
 #: public/views/index.html
@@ -68,8 +68,8 @@ msgid "Best Block"
 msgstr "Mejor Bloque"
 
 #: public/views/status.html
-msgid "Dash node information"
-msgstr "Información del nodo Dash"
+msgid "Botcoin node information"
+msgstr "Información del nodo Botcoin"
 
 #: public/views/block.html
 msgid "Block"
